@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Git uploads\\Week 1 assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F465417D-4479-3934-950E-35E49D3459A7}|Assembly-CSharp.csproj|c:\\users\\asus\\desktop\\git uploads\\week 1 assignment\\assets\\scenes\\deadarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F465417D-4479-3934-950E-35E49D3459A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\deadarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F465417D-4479-3934-950E-35E49D3459A7}|Assembly-CSharp.csproj|C:\\Users\\Asus\\Desktop\\Git uploads\\Week 1 assignment\\assets\\scenes\\chestopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F465417D-4479-3934-950E-35E49D3459A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\chestopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F465417D-4479-3934-950E-35E49D3459A7}|Assembly-CSharp.csproj|C:\\Users\\Asus\\Desktop\\Git uploads\\Week 1 assignment\\assets\\scenes\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F465417D-4479-3934-950E-35E49D3459A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\Git uploads\\Week 1 assignment\\Assets\\Scenes\\NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeadArea.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Git uploads\\Week 1 assignment\\Assets\\Scenes\\DeadArea.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\DeadArea.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Git uploads\\Week 1 assignment\\Assets\\Scenes\\DeadArea.cs",
+              "RelativeToolTip": "Assets\\Scenes\\DeadArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:50:50.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Git uploads\\Week 1 assignment\\Assets\\Scenes\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\NewBehaviourScript.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Git uploads\\Week 1 assignment\\Assets\\Scenes\\NewBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\Scenes\\NewBehaviourScript.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:15:49.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chestopen.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Git uploads\\Week 1 assignment\\Assets\\Scenes\\Chestopen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Chestopen.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Git uploads\\Week 1 assignment\\Assets\\Scenes\\Chestopen.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Chestopen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:48:29.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gamemanager.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Git uploads\\Week 1 assignment\\Assets\\Scenes\\gamemanager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\gamemanager.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Git uploads\\Week 1 assignment\\Assets\\Scenes\\gamemanager.cs",
+              "RelativeToolTip": "Assets\\Scenes\\gamemanager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:45:10.254Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
